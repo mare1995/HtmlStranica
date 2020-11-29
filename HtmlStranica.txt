@@ -12,5 +12,4 @@ Ovo je html stranica
 			Ovo je paragraf
 		</p>
 		
-		
 </html>
